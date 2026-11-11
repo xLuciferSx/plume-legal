@@ -1,7 +1,7 @@
 # Privacy Policy
 _Effective 11 November 2026_
 
-Plume: AI Email ("Plume") is an email app for iPhone. This policy explains what happens to your information when you use it. In short: Plume has no accounts, servers, ads or tracking of its own. Your mail travels between your iPhone and your email provider, and the text of emails is sent to Microsoft's Azure OpenAI Service only to produce the AI features you see in the app.
+Plume: AI Email ("Plume") is an email app for iPhone. This policy explains what happens to your information when you use it. In short: Plume has no accounts, ads or tracking of its own, and no servers that see your mail. Your mail travels between your iPhone and your email provider, and the text of emails is sent to Microsoft's Azure OpenAI Service only to produce the AI features you see in the app.
 
 ## Information Plume handles
 
@@ -12,16 +12,20 @@ Plume: AI Email ("Plume") is an email app for iPhone. This policy explains what 
 ## AI processing
 To sort mail, write one-line summaries, suggest replies, translate, draft text you ask for, summarise attachments, and find events, bills and receipts, Plume sends the relevant email text to Microsoft's Azure OpenAI Service. That text is used only to return the result to your device. Under Microsoft's terms for the service, it is not used to train models. Plume does not keep a copy anywhere other than your iPhone. You can turn off automatic sorting in Settings; other AI features run only when you open an email or tap an AI button.
 
+## Instant alerts (optional, Outlook accounts)
+If you turn on Instant alerts in Settings, Microsoft notifies a small Plume alert service when new mail arrives in your Outlook inbox, and that service asks Apple to show an alert on your iPhone. The service stores only your iPhone's push address, a random code that links the two, and when it was last updated. It never receives your mail, address, password or sign-in token: your iPhone reads the sender and subject directly from Microsoft to fill in the alert. Turning Instant alerts off, or signing out of the account, deletes its entry.
+
 ## What Plume does not do
 
 - No advertising, analytics, or tracking across apps or websites.
 - No selling or sharing of your information with data brokers.
-- No Plume account and no Plume servers storing your mail.
+- No Plume account and no Plume servers storing your mail. The optional alert service below holds only push addresses.
 
 ## Third parties
 
 - **Your email provider** (for example Microsoft or Apple), which stores and delivers your mail under its own privacy policy.
 - **Microsoft Azure OpenAI Service** , which processes email text for AI features as described above.
+- **Apple Push Notification service and Microsoft Azure**, which deliver and host Instant alerts if you turn them on.
 - **Unsubscribe pages** of senders, which open inside Plume only when you tap Unsubscribe.
 
 ## Permissions
