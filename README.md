@@ -1,7 +1,9 @@
-# Plume: AI Email — legal and support pages
+# Plume: AI Email
 
-Published at https://xlucifersx.github.io/plume-legal/
+Support, privacy and terms for the Plume: AI Email iPhone app.
 
-- [Support](https://xlucifersx.github.io/plume-legal/)
-- [Privacy Policy](https://xlucifersx.github.io/plume-legal/privacy.html)
-- [Terms of Use](https://xlucifersx.github.io/plume-legal/terms.html)
+- [Support](SUPPORT.md)
+- [Privacy Policy](PRIVACY.md)
+- [Terms of Use](TERMS.md)
+
+Questions or problems: [open an issue](https://github.com/xLuciferSx/plume-legal/issues/new).
